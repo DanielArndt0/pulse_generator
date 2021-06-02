@@ -1,0 +1,2 @@
+- Developed on mikroC for PIC
+- MCU PIC16F648A 
