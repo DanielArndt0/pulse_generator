@@ -1,3 +1,3 @@
 - Pulse generator with 4-digit multiplexing on 7-segment display.
 - Developed on mikroC for PIC
-- MCU PIC16F648A    //    4MHz
+- Microcontroller PIC16F648A    //    4MHz
